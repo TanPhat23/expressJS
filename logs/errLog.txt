@@ -25,3 +25,12 @@
 20230210	20:45:56	d4fbcb2d-c646-4a40-b5fa-33f032b6b947	SyntaxError: Unexpected token 'e', "#" is not valid JSON
 20230210	20:47:48	cbbbed89-676f-414a-87b5-cdc8e3fb73a9	SyntaxError: Unexpected token 'e', "#" is not valid JSON
 20230210	20:53:43	19ded19a-219c-431c-b7b7-3ea84d40f603	SyntaxError: Unexpected token 'e', "#" is not valid JSON
+20230211	23:50:44	e31f3c48-24eb-4378-a977-9497a6df6a31	SyntaxError: Unexpected token 'e', "#" is not valid JSON
+20230211	23:50:50	2ec09f8c-9f82-4b1a-94db-6ce441f28f08	TypeError: authHeader?.startWith is not a function
+20230211	23:51:26	ce2156ee-8c61-46d3-b00d-ca85fc451551	TypeError: authHeader?.startWith is not a function
+20230211	23:52:48	7944ffb4-3791-4c38-9ec4-0b40c0d71f32	TypeError: Cannot read properties of undefined (reading 'username')
+20230211	23:53:44	692e79ce-11ad-4929-986f-51c0e01270eb	TypeError: Cannot read properties of undefined (reading 'username')
+20230212	00:05:41	28485543-9748-48df-81a7-d2551d34c083	TypeError: Cannot read properties of undefined (reading 'username')
+20230212	00:07:19	fd75e25f-bad7-491b-a6ce-edfee2903b85	TypeError: Cannot read properties of undefined (reading 'username')
+20230212	00:08:46	6bcfe5d9-1ce6-471d-a7c0-50ad2f57baa3	TypeError: Cannot read properties of undefined (reading 'username')
+20230212	00:10:29	b25fafe1-775a-447c-98da-00a8ec43547b	TypeError: Cannot read properties of undefined (reading 'roles')
